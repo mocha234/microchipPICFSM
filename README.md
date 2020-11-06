@@ -9,7 +9,7 @@ Hope this helps!
 
 Feel free to suggest/recommend if any changes need or ask if any question surfaced.
 
-Source code: Prof. Dr.-Ing. Ralf Herwig of HsKA, Germany.
+Special Thanks to Prof. Dr.-Ing. Ralf Herwig of HsKA, Germany.
 
 ## Files Guide
 - Source Code: ../015_Mikrorechner_FinalEx_LetzteHausaufgabe
