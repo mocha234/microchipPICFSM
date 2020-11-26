@@ -17,3 +17,7 @@ Special Thanks to Prof. Dr.-Ing. Ralf Herwig of HsKA, Germany.
 - Watch Tab: ../015_FinalEx_WatchTab.pdf
 - Project Report: ../015_FinalEx_Report (Here explains everything, **read this!**)
 
+## Instruction Set's Summary for PIC..
+
+http://technology.niagarac.on.ca/staff/mboldin/18F_Instruction_Set/
+
